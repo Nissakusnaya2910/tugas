@@ -1,8 +1,7 @@
 /* Program : point.h
-   Author : (3411171007, Nia Desfiany)
+   Author : 3411191025 , Nissa Aulia Permatasari
    Kelas : Informatika A
    Deskripsi : Header file dari prototype point
-   Tanggal : 05 Maret 2018
 */
 
 #if ndef_POINT_H
