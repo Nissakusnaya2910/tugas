@@ -1,8 +1,7 @@
 /* Program		: point.c
-   Author		: (3411171007, Nia Desfiany)
+   Author		: 3411191025 , Nissa Aulia Permatasari
    Kelas		: Informatika A
    Deskripsi	: Membuat realisasi prototype
-   Tanggal		: 05 Maret 2018
 */
 
 #include "point.h"
